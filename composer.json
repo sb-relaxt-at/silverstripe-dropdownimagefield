@@ -8,7 +8,7 @@
         "issues": "http://github.com/fullscreeninteractive/silverstripe-dropdownimagefield/issues"
     },
     "require": {
-        "silverstripe/framework": "^4 || ^5"
+        "silverstripe/framework": "^6"
     },
     "extra": {
         "branch-alias": {
