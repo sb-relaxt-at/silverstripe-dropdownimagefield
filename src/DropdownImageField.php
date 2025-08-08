@@ -3,10 +3,10 @@
 namespace FullscreenInteractive\DropdownImageField;
 
 use SilverStripe\Forms\DropdownField;
+use SilverStripe\Model\ArrayData;
+use SilverStripe\Model\List\ArrayList;
+use SilverStripe\Model\List\SS_List;
 use SilverStripe\View\Requirements;
-use SilverStripe\View\ArrayData;
-use SilverStripe\ORM\ArrayList;
-use SilverStripe\ORM\SS_List;
 use SilverStripe\Forms\FormField;
 
 class DropdownImageField extends DropdownField {
